@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: Investcoin Core consensus library
+Description: Library for the Investcoin consensus protocol.
+Version: @PACKAGE_VERSION@
+Libs: -L${libdir} -lminmontcoinconsensus
+Cflags: -I${includedir}
+Requires.private: libcrypto

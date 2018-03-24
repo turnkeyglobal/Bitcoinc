@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Investcoin
+Comment=Investcoin P2P Cryptocurrency
+Comment[fr]=Investcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Investcoin, eşten eşe kriptografik sanal para birimi
+Exec=minmontcoin-qt %u
+Terminal=false
+Type=Application
+Icon=minmontcoin128
+MimeType=x-scheme-handler/minmontcoin;
+Categories=Office;Finance;

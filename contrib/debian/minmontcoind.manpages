@@ -1,0 +1,3 @@
+debian/manpages/minmontcoind.1
+debian/manpages/minmontcoin.conf.5
+debian/manpages/minmontcoin-cli.1
